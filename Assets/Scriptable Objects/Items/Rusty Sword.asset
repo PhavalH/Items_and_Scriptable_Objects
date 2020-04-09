@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9b550871289b41eeb2cc7a5de2c26a5, type: 3}
+  m_Name: Rusty Sword
+  m_EditorClassIdentifier: 
+  Name: Rusty Sword
+  Description: A dull and rusty sword
+  Price: 15
+  type: 2
+  image: {fileID: 21300130, guid: 3a13fafab6ee14e7bae51ccda227ca7d, type: 3}
+  damage: 1
+  durablity: 100
+  enhancement: none
